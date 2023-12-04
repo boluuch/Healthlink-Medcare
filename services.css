@@ -1,0 +1,741 @@
+.paramedic-sign-icon18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.healthlink-medical18 {
+  font-weight: 500;
+}
+.span18 {
+  font-weight: 600;
+}
+.healthlink-medical-center-container18 {
+  position: absolute;
+  top: 16px;
+  left: 85px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo18 {
+  position: absolute;
+  top: calc(50% - 31.5px);
+  left: 80px;
+  width: 405px;
+  height: 64px;
+}
+.logo-header10 {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--accent-1);
+  height: 80px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  z-index: 1000; /* To ensure it's above other elements */
+}
+.home11,
+.services9 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  font-weight: 600;
+  display: inline-block;
+}
+.home11 {
+  text-decoration: none;
+  left: 0;
+  color: inherit;
+  width: 57px;
+  cursor: pointer;
+}
+.services9 {
+  left: 80px;
+  width: 78px;
+}
+.about-us25,
+.blog9,
+.customer-support9,
+.find-us9,
+.our-team9,
+.patient-resources9,
+.testimonials12 {
+  text-decoration: none;
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: 183px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 92px;
+  cursor: pointer;
+}
+.about-us25,
+.blog9,
+.customer-support9,
+.find-us9,
+.patient-resources9,
+.testimonials12 {
+  left: 299px;
+  width: 44px;
+}
+.about-us25,
+.customer-support9,
+.find-us9,
+.patient-resources9,
+.testimonials12 {
+  left: 367px;
+  width: 164px;
+}
+.about-us25,
+.customer-support9,
+.find-us9,
+.testimonials12 {
+  left: 555px;
+  width: 167px;
+}
+.about-us25,
+.find-us9,
+.testimonials12 {
+  left: 746px;
+  width: 117px;
+}
+.about-us25,
+.find-us9 {
+  left: 887px;
+  width: 69px;
+}
+.about-us25 {
+  left: 980px;
+  width: 83px;
+}
+
+.navigation-header8 {
+  position: fixed;
+  top: 80px;
+  width: 100%;
+  height: 70px;
+  color: var(--text-style);
+  z-index: 1000;
+  background-color: white;
+  text-align: center;
+
+}
+.home-services {
+  position: absolute;
+  top: 64px;
+  left: 109px;
+  font-weight: 600;
+}
+.book-appointment2 {
+  position: absolute;
+  top: 99px;
+  left: 109px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 218px;
+}
+.appointment-header1,
+.picture-icon7 {
+  position: absolute;
+  top: 0;
+  height: 188px;
+  overflow: hidden;
+}
+.picture-icon7 {
+  left: 950px;
+  width: 205px;
+  object-fit: cover;
+}
+.appointment-header1 {
+  left: calc(50% - 640px);
+  background: linear-gradient(
+    91.24deg,
+    #cbdfe6,
+    rgba(203, 223, 230, 0.9) 74.21%,
+    rgba(203, 223, 230, 0),
+    rgba(203, 223, 230, 0.35)
+  );
+  width: 1280px;
+}
+.comprehensive-healthcare-solut {
+  position: absolute;
+  top: 228px;
+  left: 85px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 567px;
+}
+.icon-pictures {
+  position: absolute;
+  top: 304px;
+  left: 109px;
+  width: 484px;
+  height: 288px;
+}
+.your-health-is {
+  position: absolute;
+  top: calc(50% + 16px);
+  left: 652px;
+  line-height: 35px;
+  font-weight: 500;
+  color: var(--text-style);
+  display: inline-block;
+  width: 543px;
+}
+.book-appointment1 {
+  position: absolute;
+  top: 194px;
+  left: 80px;
+  width: 1280px;
+  height: 592px;
+}
+.ecare10 {
+  position: absolute;
+  top: calc(50% - 27px);
+  left: 109px;
+  display: inline-block;
+  width: 107px;
+}
+.ecare9 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 640px);
+  border-radius: var(--br-11xs);
+  background: linear-gradient(
+    91.24deg,
+    #cbdfe6,
+    rgba(203, 223, 230, 0.9) 74.21%,
+    rgba(203, 223, 230, 0),
+    rgba(203, 223, 230, 0.35)
+  );
+  width: 1280px;
+  height: 188px;
+  overflow: hidden;
+}
+.your-health-simplified {
+  position: absolute;
+  top: 228px;
+  left: 85px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 354px;
+}
+.like-thumbs-up-sticker-icon {
+  position: absolute;
+  top: 336px;
+  left: 193px;
+  width: 133px;
+  height: 133px;
+  overflow: hidden;
+}
+.prioritize-your-health {
+  position: absolute;
+  top: calc(50% + 84px);
+  left: 519px;
+  font-size: var(--font-size-xl);
+  line-height: 35px;
+  font-weight: 500;
+  color: var(--text-style);
+  display: inline-block;
+  width: 544px;
+}
+.ecare8 {
+  position: absolute;
+  top: 906px;
+  left: 80px;
+  width: 1280px;
+  height: 568px;
+  font-size: var(--font-size-21xl);
+}
+.footer-child5 {
+  position: absolute;
+  top: 103.3px;
+  left: -0.7px;
+  border-top: 1.5px solid var(--primary-3);
+  box-sizing: border-box;
+  width: 1441.5px;
+  height: 1.5px;
+}
+.ilishan-remo8 {
+  position: absolute;
+  top: 52px;
+  left: calc(50% - 120.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-cadetblue-100);
+  display: inline-block;
+  width: 241px;
+}
+.logo19 {
+  position: absolute;
+  top: calc(50% - 96.5px);
+  left: 80px;
+  width: 411px;
+  height: 64px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.about-healthlink8,
+.about-us27 {
+  position: absolute;
+  left: calc(50% - 109px);
+  display: inline-block;
+}
+.about-us27 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-3);
+  width: 137px;
+}
+.about-healthlink8 {
+  top: 41px;
+  font-weight: 500;
+  width: 169px;
+  cursor: pointer;
+}
+.about-us26,
+.news-media8 {
+  position: absolute;
+  width: 218px;
+}
+.news-media8 {
+  top: 73px;
+  left: calc(50% - 109px);
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.about-us26 {
+  top: 199px;
+  left: 599px;
+  height: 98px;
+}
+.book-an-appointment8,
+.ecare11,
+.quick-links17 {
+  position: absolute;
+  left: calc(50% - 96px);
+  display: inline-block;
+}
+.quick-links17 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-3);
+  width: 136px;
+}
+.book-an-appointment8,
+.ecare11 {
+  top: 41px;
+  font-weight: 500;
+  width: 83px;
+  cursor: pointer;
+}
+.book-an-appointment8 {
+  top: 73px;
+  width: 192px;
+}
+.quick-links16 {
+  position: absolute;
+  top: 199px;
+  left: 842px;
+  width: 192px;
+  height: 98px;
+}
+.contact-us17 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 66px);
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  color: var(--primary-3);
+  width: 132px;
+}
+.div56,
+.div57 {
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div56 {
+  position: absolute;
+  top: 41px;
+  width: 132px;
+}
+.div57 {
+  top: 74px;
+}
+.div57,
+.div58,
+.div59 {
+  position: absolute;
+  width: 132px;
+}
+.div58 {
+  top: 107px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div59 {
+  top: 140px;
+}
+.div59,
+.div60,
+.div61 {
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div60 {
+  position: absolute;
+  top: 173px;
+  width: 132px;
+}
+.div61 {
+  top: 206px;
+}
+.contact-us16,
+.div61,
+.div62 {
+  position: absolute;
+  width: 132px;
+}
+.div62 {
+  top: 239px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.contact-us16 {
+  top: 199px;
+  left: 1143px;
+  height: 264px;
+  color: var(--color-cadetblue-200);
+}
+.follow-us8 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 76px);
+  font-weight: 600;
+  display: inline-block;
+  width: 84px;
+}
+.vector-icon125 {
+  position: absolute;
+  height: 85.71%;
+  width: 46.94%;
+  top: 6.12%;
+  right: 27.35%;
+  bottom: 8.16%;
+  left: 25.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook8,
+.vector-icon126 {
+  position: absolute;
+  border-radius: var(--br-11xs);
+  overflow: hidden;
+}
+.facebook8 {
+  text-decoration: none;
+  top: 28.8px;
+  left: -0.2px;
+  border: 0.5px solid var(--primary-3);
+  box-sizing: border-box;
+  width: 24.5px;
+  height: 24.5px;
+}
+.vector-icon126 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon127,
+.vector-icon128,
+.vector-icon129 {
+  position: absolute;
+  height: 44.17%;
+  width: 36.25%;
+  top: 33.75%;
+  right: 25.83%;
+  bottom: 22.08%;
+  left: 37.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon128,
+.vector-icon129 {
+  height: 43.75%;
+  width: 8.33%;
+  top: 34.17%;
+  right: 70%;
+  left: 21.67%;
+}
+.vector-icon129 {
+  height: 7.92%;
+  width: 7.92%;
+  top: 22.08%;
+  bottom: 70%;
+  left: 22.08%;
+}
+.vector-icon130 {
+  height: 20%;
+  width: 8.33%;
+  top: 34.17%;
+  right: 53.75%;
+  bottom: 45.83%;
+  left: 37.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.linkedin8,
+.vector-icon130,
+.vector-icon131 {
+  position: absolute;
+  overflow: hidden;
+}
+.linkedin8 {
+  text-decoration: none;
+  top: 29px;
+  left: 32px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon131 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon132 {
+  position: absolute;
+  top: calc(50% - 5.2px);
+  left: calc(50% - 4.9px);
+  border-radius: 1.26px;
+  width: 10px;
+  height: 10px;
+}
+.youtube8 {
+  text-decoration: none;
+  position: absolute;
+  top: 29px;
+  left: 64px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.vector-icon133,
+.vector-icon134 {
+  position: absolute;
+  height: 17.08%;
+  width: 24.17%;
+  top: 57.08%;
+  right: 64.17%;
+  bottom: 25.83%;
+  left: 11.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon134 {
+  height: 82.92%;
+  width: 94.17%;
+  top: 9.17%;
+  right: 2.08%;
+  bottom: 7.92%;
+  left: 3.75%;
+}
+.vector-icon135 {
+  height: 23.75%;
+  width: 17.5%;
+  top: 37.08%;
+  right: 75%;
+  bottom: 39.17%;
+  left: 7.5%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.twitter8,
+.vector-icon135,
+.vector-icon136 {
+  position: absolute;
+  overflow: hidden;
+}
+.twitter8 {
+  text-decoration: none;
+  top: 29px;
+  left: 96px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon136 {
+  height: 95.83%;
+  width: 95.83%;
+  top: 2.08%;
+  right: 2.08%;
+  bottom: 2.08%;
+  left: 2.08%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon137 {
+  height: 47.92%;
+  width: 47.92%;
+  top: 25.83%;
+  right: 26.25%;
+  bottom: 26.25%;
+  left: 25.83%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram8,
+.vector-icon137,
+.vector-icon138 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon138 {
+  height: 12.08%;
+  width: 12.08%;
+  top: 18.33%;
+  right: 17.92%;
+  bottom: 69.58%;
+  left: 70%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram8 {
+  text-decoration: none;
+  top: 29px;
+  left: 128px;
+  width: 24px;
+  height: 24px;
+}
+.footer8,
+.socials8 {
+  position: absolute;
+  top: 468px;
+  left: 165px;
+  width: 152px;
+  height: 53px;
+  color: var(--primary-1);
+}
+.footer8 {
+  top: 1634px;
+  left: 0;
+  background-color: var(--accent-2);
+  width: 1440px;
+  height: 561px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-cadetblue-100);
+}
+.services8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2195px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--primary-3);
+  font-family: var(--font-nunito);
+}
+
+/* Add hover effect to .healthlink-medical-center-container4 */
+.healthlink-medical-center-container18:hover {
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+  color: var(--primary-1);
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+.navigation-header8 a {
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: var(--text-style);
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+.navigation-header8 a .underline {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 2px;
+  width: 100%;
+  background-color: var(--primary-1);
+  transition: width 0.3s ease;
+}
+.navigation-header8 a:hover {
+  color: var(--color-white);
+  background-color: var(--primary-1);
+  animation: linkHoverAnimation 0.5s ease;
+}
+
+@keyframes linkHoverAnimation {
+  /* Define your animation keyframes for links here */
+  /* For example, you can scale and fade in on hover */
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* Add hover effect with box fill for .our-story-and */
+.book-appointment2 {
+  position: relative;
+  display: inline-block; /* Ensures the hover effect only covers the text width */
+}
+
+.book-appointment2::before {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 3px; /* Adjust the line height as needed */
+  background-color: #3498db; /* Set your desired background color */
+  transform: scaleX(0);
+  transform-origin: bottom;
+  transition: transform 0.3s ease; /* Adjust the transition duration as needed */
+}
+
+.book-appointment2:hover::before {
+  transform: scaleX(1);
+}
+/* Add hover effect with box fill for .welcome-to-healthlink-container */
+.your-health-is {
+ 
+  overflow: hidden;
+}
+
+.your-health-is::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background-color: #656e7446; /* Set your desired background color */
+  transition: width 0.3s ease; /* Adjust the transition duration as needed */
+}
+
+.your-health-is:hover::before {
+  width: 100%;
+}

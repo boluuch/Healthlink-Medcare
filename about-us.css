@@ -1,0 +1,760 @@
+
+.paramedic-sign-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.span4 {
+  font-weight: 600;
+}
+.healthlink-medical-center-container4 {
+  position: absolute;
+  top: 16px;
+  left: 85px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo4 {
+  position: absolute;
+  top: calc(50% - 31.5px);
+  left: 80px;
+  width: 405px;
+  height: 64px;
+}
+.home4,
+.logo-header3 {
+  position: absolute;
+  left: 0;
+}
+.logo-header3 {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  right: 0;
+  background-color: var(--accent-1);
+  height: 80px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  z-index: 1000;
+}
+.home4 {
+  top: calc(50% - 13.5px);
+  font-weight: 600;
+  display: inline-block;
+  width: 57px;
+}
+.home4,
+.our-team1,
+.services1 {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+.services1 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: 81px;
+  font-weight: 600;
+  display: inline-block;
+  width: 78px;
+}
+.our-team1 {
+  left: 183px;
+  width: 92px;
+}
+.blog1,
+.our-team1,
+.patient-resources1 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  font-weight: 600;
+  display: inline-block;
+}
+.blog1 {
+  text-decoration: none;
+  left: 299px;
+  color: inherit;
+  width: 44px;
+  cursor: pointer;
+}
+.patient-resources1 {
+  left: 367px;
+  width: 164px;
+}
+.customer-support1,
+.patient-resources1,
+.testimonials4 {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+.customer-support1 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: 555px;
+  font-weight: 600;
+  display: inline-block;
+  width: 167px;
+}
+.testimonials4 {
+  left: 746px;
+  width: 117px;
+}
+.about-us4,
+.find-us1,
+.testimonials4 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  font-weight: 600;
+  display: inline-block;
+}
+.find-us1 {
+  text-decoration: none;
+  left: 887px;
+  color: inherit;
+  width: 69px;
+  cursor: pointer;
+}
+.about-us4 {
+  left: 978px;
+  width: 83px;
+}
+
+.navigation-header1 {
+  position: fixed;
+  top: 80px;
+  width: 100%;
+  height: 70px;
+  color: var(--text-style);
+  z-index: 1000;
+  background-color: white;
+  text-align: center;
+}
+.home-about-us,
+.our-story-and {
+  position: absolute;
+  left: 109px;
+  display: inline-block;
+}
+.home-about-us {
+  top: 64px;
+  font-weight: 600;
+  width: 193px;
+}
+.our-story-and {
+  top: 99px;
+  font-size: var(--font-size-5xl);
+  width: 302px;
+}
+.our-story-header,
+.picture-icon {
+  position: absolute;
+  height: 188px;
+  overflow: hidden;
+}
+.picture-icon {
+  top: 0;
+  left: 949.5px;
+  width: 206px;
+  object-fit: cover;
+}
+.our-story-header {
+  top: 202px;
+  left: calc(50% - 640px);
+  background: linear-gradient(
+    91.24deg,
+    #cbdfe6,
+    rgba(203, 223, 230, 0.56) 66.35%,
+    rgba(203, 223, 230, 0.35),
+    rgba(203, 223, 230, 0)
+  );
+  width: 1280px;
+}
+.who-we-are1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+  width: 217px;
+}
+.bello-quamdeen-ngozi,
+.welcome-to-healthlink {
+  font-weight: 500;
+  font-family: var(--font-nunito);
+}
+.bello-quamdeen-ngozi {
+  font-weight: 600;
+}
+.from-the-computer {
+  font-weight: 500;
+}
+.welcome-to-healthlink-medical {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.thank-you-for {
+  font-weight: 700;
+}
+.thank-you-for-visiting-us {
+  margin: 0;
+}
+.welcome-to-healthlink-container {
+  position: absolute;
+  top: calc(50% - 222px);
+  left: calc(50% - 531px);
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  line-height: 35px;
+  color: var(--text-style);
+  display: inline-block;
+  width: 1062px;
+}
+.who-we-are {
+  position: absolute;
+  top: 446px;
+  left: 165px;
+  width: 1110px;
+  height: 596px;
+  font-size: var(--font-size-13xl);
+}
+.footer-item {
+  position: absolute;
+  top: 103.3px;
+  left: -0.7px;
+  border-top: 1.5px solid var(--primary-3);
+  box-sizing: border-box;
+  width: 1441.5px;
+  height: 1.5px;
+}
+.ilishan-remo1 {
+  position: absolute;
+  top: 52px;
+  left: calc(50% - 120.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-cadetblue-100);
+  display: inline-block;
+  width: 241px;
+}
+.logo5 {
+  position: absolute;
+  top: calc(50% - 96.5px);
+  left: 80px;
+  width: 411px;
+  height: 64px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.about-healthlink1,
+.about-us6 {
+  position: absolute;
+  left: calc(50% - 109px);
+  display: inline-block;
+}
+.about-us6 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-3);
+  width: 137px;
+}
+.about-healthlink1 {
+  top: 41px;
+  font-weight: 500;
+  width: 156px;
+  cursor: pointer;
+}
+.about-us5,
+.news-media1 {
+  position: absolute;
+  width: 218px;
+}
+.news-media1 {
+  top: 73px;
+  left: calc(50% - 109px);
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.about-us5 {
+  top: 199px;
+  left: 599px;
+  height: 98px;
+}
+.book-an-appointment1,
+.ecare1,
+.quick-links3 {
+  position: absolute;
+  left: calc(50% - 96px);
+  display: inline-block;
+}
+.quick-links3 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-3);
+  width: 136px;
+}
+.book-an-appointment1,
+.ecare1 {
+  top: 41px;
+  font-weight: 500;
+  width: 83px;
+  cursor: pointer;
+}
+.book-an-appointment1 {
+  top: 73px;
+  width: 192px;
+}
+.quick-links2 {
+  position: absolute;
+  top: 199px;
+  left: 842px;
+  width: 192px;
+  height: 98px;
+}
+.contact-us3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 66px);
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  color: var(--primary-3);
+  width: 132px;
+}
+.div7,
+.div8 {
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div7 {
+  position: absolute;
+  top: 41px;
+  width: 132px;
+}
+.div8 {
+  top: 74px;
+}
+.div10,
+.div8,
+.div9 {
+  position: absolute;
+  width: 132px;
+}
+.div9 {
+  top: 107px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div10 {
+  top: 140px;
+}
+.div10,
+.div11,
+.div12 {
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div11 {
+  position: absolute;
+  top: 173px;
+  width: 132px;
+}
+.div12 {
+  top: 206px;
+}
+.contact-us2,
+.div12,
+.div13 {
+  position: absolute;
+  width: 132px;
+}
+.div13 {
+  top: 239px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.contact-us2 {
+  top: 199px;
+  left: 1143px;
+  height: 264px;
+  color: var(--color-cadetblue-200);
+}
+.follow-us1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 76px);
+  font-weight: 600;
+  display: inline-block;
+  width: 84px;
+}
+.facebook1,
+.vector-icon27 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon27 {
+  height: 85.71%;
+  width: 46.94%;
+  top: 6.12%;
+  right: 27.35%;
+  bottom: 8.16%;
+  left: 25.71%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.facebook1 {
+  text-decoration: none;
+  top: 28.8px;
+  left: -0.2px;
+  border-radius: var(--br-11xs);
+  border: 0.5px solid var(--primary-3);
+  box-sizing: border-box;
+  width: 24.5px;
+  height: 24.5px;
+}
+.vector-icon28,
+.vector-icon29,
+.vector-icon30,
+.vector-icon31 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon28 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+}
+.vector-icon29,
+.vector-icon30,
+.vector-icon31 {
+  height: 44.17%;
+  width: 36.25%;
+  top: 33.75%;
+  right: 25.83%;
+  bottom: 22.08%;
+  left: 37.92%;
+}
+.vector-icon30,
+.vector-icon31 {
+  height: 43.75%;
+  width: 8.33%;
+  top: 34.17%;
+  right: 70%;
+  left: 21.67%;
+}
+.vector-icon31 {
+  height: 7.92%;
+  width: 7.92%;
+  top: 22.08%;
+  bottom: 70%;
+  left: 22.08%;
+}
+.vector-icon32 {
+  height: 20%;
+  width: 8.33%;
+  top: 34.17%;
+  right: 53.75%;
+  bottom: 45.83%;
+  left: 37.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.linkedin1,
+.vector-icon32,
+.vector-icon33 {
+  position: absolute;
+  overflow: hidden;
+}
+.linkedin1 {
+  text-decoration: none;
+  top: 29px;
+  left: 32px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon33 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon34 {
+  position: absolute;
+  top: calc(50% - 5.2px);
+  left: calc(50% - 4.9px);
+  border-radius: 1.26px;
+  width: 10px;
+  height: 10px;
+}
+.youtube1 {
+  text-decoration: none;
+  position: absolute;
+  top: 29px;
+  left: 64px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.vector-icon35,
+.vector-icon36 {
+  position: absolute;
+  height: 17.08%;
+  width: 24.17%;
+  top: 57.08%;
+  right: 64.17%;
+  bottom: 25.83%;
+  left: 11.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon36 {
+  height: 82.92%;
+  width: 94.17%;
+  top: 9.17%;
+  right: 2.08%;
+  bottom: 7.92%;
+  left: 3.75%;
+}
+.vector-icon37 {
+  height: 23.75%;
+  width: 17.5%;
+  top: 37.08%;
+  right: 75%;
+  bottom: 39.17%;
+  left: 7.5%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.twitter1,
+.vector-icon37,
+.vector-icon38 {
+  position: absolute;
+  overflow: hidden;
+}
+.twitter1 {
+  text-decoration: none;
+  top: 29px;
+  left: 96px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon38 {
+  height: 95.83%;
+  width: 95.83%;
+  top: 2.08%;
+  right: 2.08%;
+  bottom: 2.08%;
+  left: 2.08%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon39 {
+  height: 47.92%;
+  width: 47.92%;
+  top: 25.83%;
+  right: 26.25%;
+  bottom: 26.25%;
+  left: 25.83%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram1,
+.vector-icon39,
+.vector-icon40 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon40 {
+  height: 12.08%;
+  width: 12.08%;
+  top: 18.33%;
+  right: 17.92%;
+  bottom: 69.58%;
+  left: 70%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram1 {
+  text-decoration: none;
+  top: 29px;
+  left: 128px;
+  width: 24px;
+  height: 24px;
+}
+.footer1,
+.socials1 {
+  position: absolute;
+  top: 468px;
+  left: 165px;
+  width: 152px;
+  height: 53px;
+  color: var(--primary-1);
+}
+.footer1 {
+  top: 1162px;
+  left: 0;
+  background-color: var(--accent-2);
+  width: 1440px;
+  height: 561px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-cadetblue-100);
+}
+.about-us3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1723px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--primary-3);
+  font-family: var(--font-nunito);
+}
+
+/* ... (your existing CSS code) ... */
+
+/* Add hover effect and animation to navigation-header1 links */
+.navigation-header1 a {
+
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: var(--text-style);
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+.navigation-header1 a .underline {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 2px;
+  width: 100%;
+  background-color: var(--primary-1);
+  transition: width 0.3s ease;
+}
+.navigation-header1 a:hover {
+  color: var(--color-white);
+  background-color: var(--primary-1);
+  animation: linkHoverAnimation 0.5s ease;
+}
+
+/* Add hover effect and animation to who-we-are1 */
+.who-we-are1:hover {
+  color: var(--primary-1);
+  cursor: pointer;
+  transition: color 0.3s ease;
+  animation: whoWeAreHoverAnimation 0.5s ease;
+}
+
+/* Define individual animations for each div */
+@keyframes linkHoverAnimation {
+  /* Define your animation keyframes for links here */
+  /* For example, you can scale and fade in on hover */
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes whoWeAreHoverAnimation {
+  /* Define your animation keyframes for who-we-are here */
+  /* For example, you can rotate on hover */
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+
+/* Add hover effect to .healthlink-medical-center-container4 */
+.healthlink-medical-center-container4:hover {
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+  color: var(--primary-1);
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+
+/* Add hover effect with box fill for .welcome-to-healthlink-container */
+.welcome-to-healthlink-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.welcome-to-healthlink-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background-color: #656e7446; /* Set your desired background color */
+  transition: width 0.3s ease; /* Adjust the transition duration as needed */
+}
+
+.welcome-to-healthlink-container:hover::before {
+  width: 100%;
+}
+
+
+/* Add hover effect with box fill for .our-story-and */
+.our-story-and {
+  position: relative;
+  display: inline-block; /* Ensures the hover effect only covers the text width */
+}
+
+.our-story-and::before {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 3px; /* Adjust the line height as needed */
+  background-color: #3498db; /* Set your desired background color */
+  transform: scaleX(0);
+  transform-origin: bottom;
+  transition: transform 0.3s ease; /* Adjust the transition duration as needed */
+}
+
+.our-story-and:hover::before {
+  transform: scaleX(1);
+}
+
+
+
+/* Adjustments for smaller screens (mobile) */
+@media only screen and (max-width: 480px) {
+  .navigation-header1 {
+      flex-direction: column;
+      align-items: flex-start;
+      position: static;
+  }
+
+  .navigation-header1 a {
+      width: 100%;
+      box-sizing: border-box;
+      text-align: center;
+      padding: 10px 0;
+  }
+
+  .dropdown {
+      width: 100%;
+      position: static;
+  }
+}

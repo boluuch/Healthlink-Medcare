@@ -1,0 +1,423 @@
+.vector-icon24,
+.vector-icon25 {
+  width: 89.58%;
+  right: 5%;
+  left: 5.42%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon24 {
+  position: absolute;
+  height: 89.58%;
+  top: 5.42%;
+  bottom: 5%;
+  overflow: hidden;
+}
+.vector-icon25 {
+  height: 64.58%;
+  top: 17.92%;
+  bottom: 17.5%;
+}
+.frame6,
+.vector-icon25,
+.vector-icon26 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon26 {
+  height: 27.5%;
+  width: 27.08%;
+  top: 37.92%;
+  right: 38.33%;
+  bottom: 34.58%;
+  left: 34.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 622px;
+  left: 780px;
+  width: 24px;
+  height: 24px;
+}
+.create-account1 {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.1em;
+  font-family: var(--font-nunito);
+  color: var(--sh-grey-0);
+  text-align: left;
+}
+.create-account-wrapper {
+  border: 0;
+  padding: var(--padding-xs) var(--padding-5xs);
+  background-color: var(--primary-3);
+  position: absolute;
+  width: calc(100% - 514px);
+  right: 257px;
+  bottom: 234px;
+  left: 257px;
+  border-radius: var(--br-3xs);
+  height: 66px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.create-account2 {
+  position: absolute;
+  top: 198px;
+  left: 217px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 326px;
+}
+.full-name,
+.location1,
+.phone-number1 {
+  position: absolute;
+  top: 282px;
+  left: 217px;
+  display: inline-block;
+  width: 133px;
+}
+.location1,
+.phone-number1 {
+  top: 537px;
+}
+.location1 {
+  top: 452px;
+  width: 109px;
+}
+.already-have-an {
+  top: 806px;
+  left: 257px;
+  width: 215px;
+}
+.already-have-an,
+.email2,
+.log-in1,
+.password2 {
+  position: absolute;
+  display: inline-block;
+}
+.log-in1 {
+  text-decoration: none;
+  top: 806px;
+  left: 477px;
+  color: var(--primary-3);
+  width: 66px;
+  cursor: pointer;
+}
+.email2,
+.password2 {
+  top: 367px;
+  left: 217px;
+  width: 109px;
+}
+.password2 {
+  top: 622px;
+  width: 133px;
+}
+.slab-child5,
+.slab-child6,
+.slab-child7,
+.slab-child8,
+.slab-child9 {
+  border: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 274px;
+  left: 365px;
+  width: 384px;
+  height: 41px;
+}
+.slab-child6,
+.slab-child7,
+.slab-child8,
+.slab-child9 {
+  top: 614px;
+}
+.slab-child7,
+.slab-child8,
+.slab-child9 {
+  top: 529px;
+}
+.slab-child8,
+.slab-child9 {
+  top: 359px;
+}
+.slab-child9 {
+  top: 444px;
+}
+.click-here2,
+.pharmacist {
+  position: absolute;
+  top: 839px;
+  left: 257px;
+  display: inline-block;
+  width: 99px;
+}
+.click-here2 {
+  text-decoration: none;
+  left: 364px;
+  color: var(--primary-3);
+  width: 92px;
+}
+.slab2 {
+  position: absolute;
+  top: 0;
+  left: 491px;
+  border-radius: var(--br-81xl) 0 0 var(--br-81xl);
+  background-color: var(--color-white);
+  width: 949px;
+  height: 1024px;
+}
+.frame-icon4,
+.frame-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 864px;
+  overflow: hidden;
+}
+.frame-icon5 {
+  top: 179.5px;
+  width: 628px;
+  height: 505px;
+}
+.frame7,
+.frame8,
+.we-at-healthlink {
+  position: absolute;
+  left: 0;
+  width: 326px;
+}
+.we-at-healthlink {
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame7,
+.frame8 {
+  top: 79px;
+  height: 706px;
+  overflow: hidden;
+}
+.frame7 {
+  top: 80px;
+  left: 80px;
+  width: 628px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.create-account {
+  position: relative;
+  background-color: var(--secondary-2);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-style);
+  font-family: var(--font-nunito);
+}
+.paramedic-sign-icon20 {
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl) 0 0 var(--br-81xl);
+  background-color: var(--color-white);
+  width: 949px;
+  height: 1024px;
+}
+.click-here3,
+.pharmacist1 {
+  position: absolute;
+  top: 773px;
+  left: 257px;
+  display: inline-block;
+  width: 98px;
+}
+.click-here3 {
+  text-decoration: none;
+  left: 364px;
+  color: var(--primary-3);
+  width: 91px;
+}
+.vector-icon139,
+.vector-icon140 {
+  width: 89.58%;
+  right: 5%;
+  left: 5.42%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon139 {
+  position: absolute;
+  height: 89.58%;
+  top: 5.42%;
+  bottom: 5%;
+  overflow: hidden;
+}
+.vector-icon140 {
+  height: 64.58%;
+  top: 17.92%;
+  bottom: 17.5%;
+}
+.frame9,
+.vector-icon140,
+.vector-icon141 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon141 {
+  height: 27.5%;
+  width: 27.08%;
+  top: 37.92%;
+  right: 38.33%;
+  bottom: 34.58%;
+  left: 34.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 505px;
+  left: 680px;
+  width: 24px;
+  height: 24px;
+}
+.log-in3 {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.1em;
+  font-family: var(--font-nunito);
+  color: var(--sh-grey-0);
+  text-align: left;
+}
+.log-in-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-5xs);
+  background-color: var(--primary-3);
+  position: absolute;
+  width: calc(100% - 514px);
+  right: 257px;
+  bottom: 300px;
+  left: 257px;
+  border-radius: var(--br-3xs);
+  height: 66px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.log-in4 {
+  position: absolute;
+  top: 332px;
+  left: 217px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 109px;
+}
+.dont-have-an {
+  top: 740px;
+  left: 257px;
+  width: 201px;
+}
+.create-account3,
+.dont-have-an,
+.email3,
+.password3 {
+  position: absolute;
+  display: inline-block;
+}
+.create-account3 {
+  text-decoration: none;
+  top: 740px;
+  left: 458px;
+  color: var(--primary-3);
+  width: 122px;
+  cursor: pointer;
+}
+.email3,
+.password3 {
+  top: 408px;
+  left: 217px;
+  width: 109px;
+}
+.password3 {
+  top: 505px;
+  width: 133px;
+}
+.slab-child10,
+.slab-child11 {
+  border: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 397px;
+  left: 326px;
+  width: 330px;
+  height: 47px;
+}
+.slab-child11 {
+  top: 489px;
+}
+.slab3 {
+  position: absolute;
+  top: 0;
+  left: 491px;
+  width: 949px;
+  height: 1024px;
+}
+.hospital-reception-icon {
+  position: absolute;
+  top: 293.5px;
+  left: 80px;
+  width: 628px;
+  height: 471px;
+  overflow: hidden;
+}
+.we-at-healthlink1 {
+  position: absolute;
+  top: 159px;
+  left: 80px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 326px;
+}
+.log-in2 {
+  position: relative;
+  background-color: var(--secondary-2);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-style);
+  font-family: var(--font-nunito);
+}

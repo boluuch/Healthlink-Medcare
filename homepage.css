@@ -1,0 +1,1100 @@
+.paramedic-sign-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.healthlink-medical {
+  font-weight: 500;
+}
+.span {
+  font-weight: 600;
+}
+.healthlink-medical-center-container {
+  position: absolute;
+  top: 16px;
+  left: 85px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo {
+  position: absolute;
+  top: calc(50% - 31.5px);
+  left: 80px;
+  width: 405px;
+  height: 64px;
+}
+.logo-header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--accent-1);
+  height: 80px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  z-index: 1000; /* To ensure it's above other elements */
+}
+.home9,
+.our-team6,
+.services6 {
+  text-decoration: none;
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: 0;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 57px;
+  cursor: pointer;
+}
+.our-team6,
+.services6 {
+  left: 81px;
+  width: 78px;
+}
+.our-team6 {
+  left: 183px;
+  width: 92px;
+}
+.about-us19,
+.blog7,
+.customer-support7,
+.find-us7,
+.patient-resources7,
+.testimonials10 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: 299px;
+  font-weight: 600;
+  display: inline-block;
+  width: 44px;
+}
+.about-us19,
+.customer-support7,
+.find-us7,
+.patient-resources7,
+.testimonials10 {
+  text-decoration: none;
+  left: 367px;
+  color: inherit;
+  width: 164px;
+  cursor: pointer;
+}
+.about-us19,
+.customer-support7,
+.find-us7,
+.testimonials10 {
+  left: 555px;
+  width: 167px;
+}
+.about-us19,
+.find-us7,
+.testimonials10 {
+  left: 746px;
+  width: 117px;
+}
+.about-us19,
+.find-us7 {
+  left: 887px;
+  width: 69px;
+}
+.about-us19 {
+  left: 980px;
+  width: 83px;
+}
+
+.navigation-header6 {
+  position: fixed;
+  top: 80px;
+  width: 100%;
+  height: 70px;
+  color: var(--text-style);
+  z-index: 1000;
+  background-color: white;
+  text-align: center;
+}
+.where-compassion-meets-container {
+  position: absolute;
+  top: 300px;
+  left: 109px;
+  display: inline-block;
+  width: 628px;
+}
+.hero-section,
+.text-and-gradient {
+  position: absolute;
+  border-radius: var(--br-10xs);
+  width: 1280px;
+  height: 534px;
+  overflow: hidden;
+}
+.text-and-gradient {
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    99.87deg,
+    rgba(62, 125, 140, 0.95) 11.03%,
+    rgba(62, 125, 140, 0.72) 27.19%,
+    rgba(62, 125, 140, 0) 79.95%
+  );
+}
+.hero-section {
+  top: 194px;
+  left: 80px;
+  background-image: url(./public/hero-section@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-21xl);
+}
+.sign-up {
+  position: absolute;
+  top: calc(50% - 16.5px);
+  left: calc(50% - 42.5px);
+}
+.sign-up-btn {
+  text-decoration: none;
+  position: absolute;
+  top: 613px;
+  left: 189px;
+  border-radius: var(--br-8xs);
+  background-color: var(--secondary-1);
+  width: 217px;
+  height: 57px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: inherit;
+  border: 0;
+}
+.blogposts-and-health {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 410px;
+}
+.blog-posts-and-tips-child {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  border-radius: 0 var(--br-3xs) 0 0;
+  background-color: var(--secondary-1);
+  width: 85px;
+  height: 7px;
+}
+.blog-posts-and-tips {
+  position: absolute;
+  top: 16px;
+  left: 80px;
+  width: 410px;
+  height: 48px;
+}
+.we-provide-general {
+  position: absolute;
+  top: 60px;
+  left: 189px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--primary-2);
+  display: inline-block;
+  width: 434px;
+}
+.vaccination1 {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.vaccination {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 55px);
+  font-weight: 500;
+}
+.text-box {
+  position: absolute;
+  top: 235px;
+  left: 225px;
+  background-color: var(--color-gray-200);
+  width: 186px;
+  height: 39px;
+  overflow: hidden;
+}
+.gradient,
+.vaccine-card-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 411px;
+  height: 322px;
+  overflow: hidden;
+}
+.gradient {
+  background: linear-gradient(
+    121.38deg,
+    rgba(156, 195, 204, 0.6),
+    rgba(156, 195, 204, 0) 69.8%
+  );
+}
+.vaccine-card-1 {
+  background-image: url(./public/vaccine-card-11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.explore-vaccination-facts {
+  position: absolute;
+  top: 330px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  font-family: var(--font-nunito);
+  color: var(--primary-3);
+  display: inline-block;
+  width: 326px;
+  cursor: pointer;
+}
+.fitness {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 10.5px);
+  font-weight: 500;
+}
+.text-box1 {
+  position: absolute;
+  top: 235px;
+  left: 223px;
+  background-color: var(--color-gray-200);
+  width: 187px;
+  height: 39px;
+  overflow: hidden;
+}
+.gradient1,
+.wellness-card-2 {
+  position: absolute;
+  top: 0;
+  width: 410px;
+  height: 322px;
+  overflow: hidden;
+}
+.gradient1 {
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    #387280,
+    rgba(56, 114, 128, 0.35) 35.42%,
+    rgba(56, 114, 128, 0)
+  );
+}
+.wellness-card-2 {
+  left: 435px;
+  background-image: url(./public/wellness-card-2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.unlock-your-path {
+  position: absolute;
+  top: 330px;
+  left: 435px;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  font-family: var(--font-nunito);
+  color: var(--primary-3);
+  display: inline-block;
+  width: 326px;
+  cursor: pointer;
+}
+.consultation {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 68px);
+  font-weight: 500;
+}
+.text-box2 {
+  position: absolute;
+  top: 235px;
+  left: 226px;
+  background-color: var(--color-gray-200);
+  width: 186px;
+  height: 39px;
+  overflow: hidden;
+}
+.gradient2,
+.therapy-card-3 {
+  position: absolute;
+  top: 0;
+  height: 322px;
+  overflow: hidden;
+}
+.gradient2 {
+  left: -1px;
+  background: linear-gradient(
+    124.71deg,
+    rgba(136, 171, 179, 0) 49.12%,
+    rgba(136, 171, 179, 0.93)
+  );
+  width: 412px;
+}
+.therapy-card-3 {
+  left: 869px;
+  width: 411px;
+  background-image: url(./public/therapy-card-31@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.what-experts-recommend {
+  position: absolute;
+  top: 330px;
+  left: 870px;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  font-family: var(--font-nunito);
+  color: var(--primary-3);
+  display: inline-block;
+  width: 326px;
+  cursor: pointer;
+}
+.ui-cards {
+  position: absolute;
+  top: 136px;
+  left: 80px;
+  width: 1281px;
+  height: 380px;
+  font-size: var(--font-inherit);
+  color: var(--color-white);
+  font-family: var(--font-inherit);
+}
+.blogs-and-health-tips {
+  position: absolute;
+  top: 858px;
+  left: 0;
+  width: 1440px;
+  height: 532px;
+  font-size: var(--font-size-13xl);
+  color: var(--primary-3);
+}
+.picture-card-icon {
+  position: absolute;
+  top: calc(50% - 125px);
+  left: 161px;
+  border-radius: var(--br-xl);
+  width: 360px;
+  height: 252px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.its-important-to,
+.what-pharmacists-recommend {
+  position: absolute;
+  left: 599px;
+  display: inline-block;
+}
+.what-pharmacists-recommend {
+  top: 48px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  width: 544px;
+}
+.its-important-to {
+  top: calc(50% - 37px);
+  font-weight: 500;
+  color: var(--text-style);
+  width: 676px;
+}
+.learn-more {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: calc(50% - 74.5px);
+  font-weight: 600;
+}
+.button-icon {
+  top: calc(50% - 12.5px);
+  left: 133px;
+  width: 24px;
+  height: 25px;
+}
+.button-icon,
+.learn-btn,
+.recommendation {
+  position: absolute;
+  overflow: hidden;
+}
+.learn-btn {
+  text-decoration: none;
+  top: 223px;
+  left: 599px;
+  border-radius: var(--br-11xs);
+  background-color: var(--primary-3);
+  width: 165px;
+  height: 41px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.recommendation {
+  top: 1540px;
+  left: 0;
+  background-color: var(--accent-1);
+  width: 1440px;
+  height: 322px;
+  color: var(--primary-3);
+}
+.testimonials3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 193px;
+}
+.testimonials-child {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  border-radius: 0 var(--br-3xs) 0 0;
+  background-color: var(--secondary-1);
+  width: 109px;
+  height: 7px;
+}
+.testimonials2 {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 193px;
+  height: 48px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--primary-3);
+}
+.testimonial-1-child {
+  position: absolute;
+  top: 21.5px;
+  left: calc(50% - 49px);
+  border-radius: 50%;
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+}
+.ive-been-coming {
+  position: absolute;
+  top: calc(50% - 1.5px);
+  left: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 363px;
+}
+.sarah-thompson {
+  position: absolute;
+  top: 116px;
+  left: 110px;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.testimonial-1 {
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  border-radius: var(--br-8xs);
+  background-color: var(--primary-3);
+  box-shadow: 4px 3px 7px rgba(0, 0, 0, 0.25);
+  width: 411px;
+  height: 309px;
+  overflow: hidden;
+}
+.testimonial-2-child {
+  position: absolute;
+  top: 21.5px;
+  left: calc(50% - 48px);
+  border-radius: 50%;
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+}
+.olawole-kudus {
+  position: absolute;
+  top: 116px;
+  left: calc(50% - 85.5px);
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.testimonial-2 {
+  position: absolute;
+  top: 80px;
+  left: 515px;
+  border-radius: var(--br-8xs);
+  background-color: var(--primary-3);
+  box-shadow: 4px 3px 7px rgba(0, 0, 0, 0.25);
+  width: 411px;
+  height: 309px;
+  overflow: hidden;
+}
+.testimonial-3-child {
+  position: absolute;
+  top: 21.5px;
+  left: calc(50% - 47px);
+  border-radius: 50%;
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+}
+.lisa-martinez {
+  position: absolute;
+  top: 116px;
+  left: 128px;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.testimonial-3 {
+  position: absolute;
+  top: 80px;
+  left: 950px;
+  border-radius: var(--br-8xs);
+  background-color: var(--primary-3);
+  box-shadow: 4px 3px 7px rgba(0, 0, 0, 0.25);
+  width: 411px;
+  height: 309px;
+  overflow: hidden;
+}
+.trophy-icon {
+  position: absolute;
+  top: 389px;
+  left: calc(50% - 329px);
+  width: 659px;
+  height: 411.8px;
+}
+.testimonials1 {
+  position: absolute;
+  top: 2012px;
+  left: 0;
+  width: 1440px;
+  height: 832px;
+  text-align: center;
+}
+.footer-child {
+  position: absolute;
+  top: 103.3px;
+  left: -0.7px;
+  border-top: 1.5px solid var(--primary-3);
+  box-sizing: border-box;
+  width: 1441.5px;
+  height: 1.5px;
+}
+.ilishan-remo {
+  position: absolute;
+  top: 52px;
+  left: calc(50% - 120.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-cadetblue-100);
+  display: inline-block;
+  width: 241px;
+}
+.logo1 {
+  position: absolute;
+  top: calc(50% - 96.5px);
+  left: 80px;
+  width: 411px;
+  height: 64px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.about-healthlink,
+.about-us2 {
+  position: absolute;
+  left: calc(50% - 109px);
+  display: inline-block;
+}
+.about-us2 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-3);
+  width: 137px;
+}
+.about-healthlink {
+  top: 41px;
+  font-weight: 500;
+  width: 169px;
+  cursor: pointer;
+}
+.about-us1,
+.news-media {
+  position: absolute;
+  width: 218px;
+}
+.news-media {
+  top: 73px;
+  left: calc(50% - 109px);
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.about-us1 {
+  top: 199px;
+  left: 599px;
+  height: 98px;
+}
+.book-an-appointment,
+.ecare,
+.quick-links1 {
+  position: absolute;
+  left: calc(50% - 96px);
+  display: inline-block;
+}
+.quick-links1 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-3);
+  width: 136px;
+}
+.book-an-appointment,
+.ecare {
+  top: 41px;
+  font-weight: 500;
+  width: 83px;
+  cursor: pointer;
+}
+.book-an-appointment {
+  top: 73px;
+  width: 192px;
+}
+.quick-links {
+  position: absolute;
+  top: 199px;
+  left: 842px;
+  width: 192px;
+  height: 98px;
+}
+.contact-us1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 66px);
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  color: var(--primary-3);
+  width: 132px;
+}
+.div,
+.div1 {
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  top: 41px;
+  width: 132px;
+}
+.div1 {
+  top: 74px;
+}
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  width: 132px;
+}
+.div2 {
+  top: 107px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div3 {
+  top: 140px;
+}
+.div3,
+.div4,
+.div5 {
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.div4 {
+  position: absolute;
+  top: 173px;
+  width: 132px;
+}
+.div5 {
+  top: 206px;
+}
+.contact-us,
+.div5,
+.div6 {
+  position: absolute;
+  width: 132px;
+}
+.div6 {
+  top: 239px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.contact-us {
+  top: 199px;
+  left: 1143px;
+  height: 264px;
+  color: var(--color-cadetblue-200);
+}
+.follow-us {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 76px);
+  font-weight: 600;
+  display: inline-block;
+  width: 84px;
+}
+.vector-icon {
+  position: absolute;
+  height: 85.71%;
+  width: 46.94%;
+  top: 6.12%;
+  right: 27.35%;
+  bottom: 8.16%;
+  left: 25.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook,
+.vector-icon1 {
+  position: absolute;
+  border-radius: var(--br-11xs);
+  overflow: hidden;
+}
+.facebook {
+  text-decoration: none;
+  top: 28.8px;
+  left: -0.2px;
+  border: 0.5px solid var(--primary-3);
+  box-sizing: border-box;
+  width: 24.5px;
+  height: 24.5px;
+}
+.vector-icon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  bottom: 22.08%;
+  overflow: hidden;
+}
+.vector-icon2 {
+  height: 44.17%;
+  width: 36.25%;
+  top: 33.75%;
+  right: 25.83%;
+  left: 37.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon3 {
+  height: 43.75%;
+  width: 8.33%;
+  top: 34.17%;
+  right: 70%;
+  left: 21.67%;
+}
+.vector-icon3,
+.vector-icon4,
+.vector-icon5 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 7.92%;
+  width: 7.92%;
+  top: 22.08%;
+  right: 70%;
+  bottom: 70%;
+  left: 22.08%;
+  overflow: hidden;
+}
+.vector-icon5 {
+  height: 20%;
+  width: 8.33%;
+  top: 34.17%;
+  right: 53.75%;
+  bottom: 45.83%;
+  left: 37.92%;
+}
+.linkedin,
+.vector-icon5,
+.vector-icon6 {
+  position: absolute;
+  overflow: hidden;
+}
+.linkedin {
+  text-decoration: none;
+  top: 29px;
+  left: 32px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon6 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon7 {
+  position: absolute;
+  top: calc(50% - 5.2px);
+  left: calc(50% - 4.9px);
+  border-radius: 1.26px;
+  width: 10px;
+  height: 10px;
+}
+.vector-icon8,
+.youtube {
+  position: absolute;
+  overflow: hidden;
+}
+.youtube {
+  text-decoration: none;
+  top: 29px;
+  left: 64px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon8 {
+  height: 17.08%;
+  width: 24.17%;
+  top: 57.08%;
+  right: 64.17%;
+  bottom: 25.83%;
+  left: 11.67%;
+}
+.vector-icon10,
+.vector-icon8,
+.vector-icon9 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon9 {
+  position: absolute;
+  height: 82.92%;
+  width: 94.17%;
+  top: 9.17%;
+  right: 2.08%;
+  bottom: 7.92%;
+  left: 3.75%;
+  overflow: hidden;
+}
+.vector-icon10 {
+  height: 23.75%;
+  width: 17.5%;
+  top: 37.08%;
+  right: 75%;
+  bottom: 39.17%;
+  left: 7.5%;
+}
+.twitter,
+.vector-icon10,
+.vector-icon11 {
+  position: absolute;
+  overflow: hidden;
+}
+.twitter {
+  text-decoration: none;
+  top: 29px;
+  left: 96px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon11 {
+  height: 95.83%;
+  width: 95.83%;
+  top: 2.08%;
+  right: 2.08%;
+  bottom: 2.08%;
+  left: 2.08%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon12 {
+  height: 47.92%;
+  width: 47.92%;
+  top: 25.83%;
+  right: 26.25%;
+  bottom: 26.25%;
+  left: 25.83%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram,
+.vector-icon12,
+.vector-icon13 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon13 {
+  height: 12.08%;
+  width: 12.08%;
+  top: 18.33%;
+  right: 17.92%;
+  bottom: 69.58%;
+  left: 70%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram {
+  text-decoration: none;
+  top: 29px;
+  left: 128px;
+  width: 24px;
+  height: 24px;
+}
+.footer,
+.socials {
+  position: absolute;
+  top: 468px;
+  left: 165px;
+  width: 152px;
+  height: 53px;
+  color: var(--primary-1);
+}
+.footer {
+  top: 3004px;
+  left: 0;
+  background-color: var(--accent-2);
+  width: 1440px;
+  height: 561px;
+  overflow: hidden;
+  color: var(--color-cadetblue-100);
+}
+.homepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3565px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-nunito);
+}
+/* Add hover effect to .healthlink-medical-center-container4 */
+.healthlink-medical-center-container:hover {
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+  color: var(--primary-1);
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+.navigation-header6 a {
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: var(--text-style);
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+.navigation-header6 a .underline {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 2px;
+  width: 100%;
+  background-color: var(--primary-1);
+  transition: width 0.3s ease;
+}
+.navigation-header6 a:hover {
+  color: var(--color-white);
+  background-color: var(--primary-1);
+  animation: linkHoverAnimation 0.5s ease;
+}
+
+@keyframes linkHoverAnimation {
+  /* Define your animation keyframes for links here */
+  /* For example, you can scale and fade in on hover */
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* Add glow hover effect for .sign-up-btn */
+.sign-up-btn {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.sign-up-btn::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background-color: #3498db; /* Set your desired glow color */
+  opacity: 0.5; /* Adjust the opacity as needed */
+  transition: width 0.3s ease, height 0.3s ease;
+}
+
+.sign-up-btn:hover::before {
+  width: 150%;
+  height: 150%;
+}
+
+
+/* Add glow hover effect for .learn-btn */
+.learn-btn {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.learn-btn::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background-color: #3498db; /* Set your desired glow color */
+  opacity: 0.5; /* Adjust the opacity as needed */
+  transition: width 0.3s ease, height 0.3s ease;
+}
+
+.learn-btn:hover::before {
+  width: 150%;
+  height: 150%;
+}
+
+/* Add hover background glow effect for .testimonial-1, .testimonial-2, .testimonial-3 */
+.testimonial-1,
+.testimonial-2,
+.testimonial-3 {
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.testimonial-1:hover,
+.testimonial-2:hover,
+.testimonial-3:hover {
+  background-color: #3498db; /* Set your desired glow background color */
+  box-shadow: 0 0 20px rgba(52, 152, 219, 0.8); /* Set your desired glow effect */
+  color: #fff; /* Set text color when hovering */
+}
+
+

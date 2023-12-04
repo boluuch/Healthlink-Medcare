@@ -1,0 +1,371 @@
+.vector-icon18,
+.vector-icon19 {
+  width: 89.58%;
+  right: 5%;
+  left: 5.42%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon18 {
+  position: absolute;
+  height: 89.58%;
+  top: 5.42%;
+  bottom: 5%;
+  overflow: hidden;
+}
+.vector-icon19 {
+  height: 64.58%;
+  top: 17.92%;
+  bottom: 17.5%;
+}
+.frame,
+.vector-icon19,
+.vector-icon20 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon20 {
+  height: 27.5%;
+  width: 27.08%;
+  top: 37.92%;
+  right: 38.33%;
+  bottom: 34.58%;
+  left: 34.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 562px;
+  left: 736px;
+  width: 24px;
+  height: 24px;
+}
+.log-in {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.1em;
+  font-family: var(--font-nunito);
+  color: var(--sh-grey-0);
+  text-align: left;
+}
+.log-in-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-5xs);
+  background-color: var(--primary-3);
+  position: absolute;
+  width: calc(100% - 514px);
+  right: 257px;
+  bottom: 300px;
+  left: 257px;
+  border-radius: var(--br-3xs);
+  height: 66px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.email,
+.gateway-to-patient,
+.password {
+  position: absolute;
+  left: 217px;
+  display: inline-block;
+}
+.gateway-to-patient {
+  top: 379px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.05em;
+  width: 433px;
+}
+.email,
+.password {
+  top: 464px;
+  width: 109px;
+}
+.password {
+  top: 561px;
+  width: 133px;
+}
+.slab-child,
+.slab-item {
+  border: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 454px;
+  left: 333px;
+  width: 383px;
+  height: 46px;
+}
+.slab-item {
+  top: 549px;
+}
+.click-here,
+.our-esteemed-customer {
+  position: absolute;
+  top: 755px;
+  left: 257px;
+  display: inline-block;
+  width: 210px;
+}
+.click-here {
+  text-decoration: none;
+  left: 467px;
+  color: var(--primary-3);
+  width: 92px;
+}
+.slab {
+  position: absolute;
+  top: 0;
+  left: 491px;
+  border-radius: var(--br-81xl) 0 0 var(--br-81xl);
+  background-color: var(--color-white);
+  width: 949px;
+  height: 1024px;
+}
+.frame-icon,
+.frame-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.frame-icon1 {
+  top: 179.5px;
+  width: 628px;
+  height: 505px;
+}
+.unlocking-health-solutions {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 326px;
+}
+.frame1,
+.frame2 {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 326px;
+  height: 33px;
+  overflow: hidden;
+}
+.frame1 {
+  top: 80px;
+  left: 80px;
+  width: 628px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.login-1 {
+  position: relative;
+  background-color: var(--secondary-2);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-style);
+  font-family: var(--font-nunito);
+}
+.paramedic-sign-icon20 {
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl) 0 0 var(--br-81xl);
+  background-color: var(--color-white);
+  width: 949px;
+  height: 1024px;
+}
+.click-here3,
+.pharmacist1 {
+  position: absolute;
+  top: 773px;
+  left: 257px;
+  display: inline-block;
+  width: 98px;
+}
+.click-here3 {
+  text-decoration: none;
+  left: 364px;
+  color: var(--primary-3);
+  width: 91px;
+}
+.vector-icon139,
+.vector-icon140 {
+  width: 89.58%;
+  right: 5%;
+  left: 5.42%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon139 {
+  position: absolute;
+  height: 89.58%;
+  top: 5.42%;
+  bottom: 5%;
+  overflow: hidden;
+}
+.vector-icon140 {
+  height: 64.58%;
+  top: 17.92%;
+  bottom: 17.5%;
+}
+.frame9,
+.vector-icon140,
+.vector-icon141 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon141 {
+  height: 27.5%;
+  width: 27.08%;
+  top: 37.92%;
+  right: 38.33%;
+  bottom: 34.58%;
+  left: 34.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 505px;
+  left: 680px;
+  width: 24px;
+  height: 24px;
+}
+.log-in3 {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.1em;
+  font-family: var(--font-nunito);
+  color: var(--sh-grey-0);
+  text-align: left;
+}
+.log-in-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-5xs);
+  background-color: var(--primary-3);
+  position: absolute;
+  width: calc(100% - 514px);
+  right: 257px;
+  bottom: 300px;
+  left: 257px;
+  border-radius: var(--br-3xs);
+  height: 66px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.log-in4 {
+  position: absolute;
+  top: 332px;
+  left: 217px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 109px;
+}
+.dont-have-an {
+  top: 740px;
+  left: 257px;
+  width: 201px;
+}
+.create-account3,
+.dont-have-an,
+.email3,
+.password3 {
+  position: absolute;
+  display: inline-block;
+}
+.create-account3 {
+  text-decoration: none;
+  top: 740px;
+  left: 458px;
+  color: var(--primary-3);
+  width: 122px;
+  cursor: pointer;
+}
+.email3,
+.password3 {
+  top: 408px;
+  left: 217px;
+  width: 109px;
+}
+.password3 {
+  top: 505px;
+  width: 133px;
+}
+.slab-child10,
+.slab-child11 {
+  border: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 397px;
+  left: 326px;
+  width: 330px;
+  height: 47px;
+}
+.slab-child11 {
+  top: 489px;
+}
+.slab3 {
+  position: absolute;
+  top: 0;
+  left: 491px;
+  width: 949px;
+  height: 1024px;
+}
+.hospital-reception-icon {
+  position: absolute;
+  top: 293.5px;
+  left: 80px;
+  width: 628px;
+  height: 471px;
+  overflow: hidden;
+}
+.we-at-healthlink1 {
+  position: absolute;
+  top: 159px;
+  left: 80px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 326px;
+}
+.log-in2 {
+  position: relative;
+  background-color: var(--secondary-2);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-style);
+  font-family: var(--font-nunito);
+}

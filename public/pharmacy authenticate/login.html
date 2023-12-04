@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600;1,700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login-1">
+      <div class="slab" id="slabContainer">
+        <button class="frame">
+          <img class="vector-icon18" alt="" src="./public/vector2.svg" />
+
+          <img class="vector-icon19" alt="" src="./public/vector3.svg" />
+
+          <img class="vector-icon20" alt="" src="./public/vector4.svg" />
+        </button>
+        <button class="log-in-wrapper" id="frameButton">
+          <b class="log-in">Log in</b>
+        </button>
+        <b class="gateway-to-patient">Gateway to Patient Care</b>
+        <div class="email">Email:</div>
+        <div class="password">Password:</div>
+        <input class="slab-child" placeholder="Email" type="email" />
+
+        <input class="slab-item" placeholder="Password" type="password" />
+
+        <div class="our-esteemed-customer">Our Esteemed Customer?</div>
+        <a class="click-here" href="./log-in.html">Click Here</a>
+      </div>
+      <div class="frame1">
+        <img class="frame-icon" alt="" src="./public/frame.svg" />
+
+        <img class="frame-icon1" alt="" src="./public/frame1.svg" />
+
+        <div class="frame2">
+          <div class="unlocking-health-solutions">
+            Unlocking Health Solutions
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="logInContainer" class="popup-overlay" style="display: none">
+      <div class="log-in2">
+        <img
+          class="paramedic-sign-icon20"
+          alt=""
+          src="./public/paramedicsign1.svg"
+        />
+
+        <div class="slab3">
+          <div class="rectangle-div"></div>
+          <div class="pharmacist1">Pharmacist?</div>
+          <a class="click-here3" href="./login.html">Click Here</a>
+          <button class="frame9">
+            <img class="vector-icon139" alt="" src="./public/vector2.svg" />
+
+            <img class="vector-icon140" alt="" src="./public/vector3.svg" />
+
+            <img class="vector-icon141" alt="" src="./public/vector4.svg" />
+          </button>
+          <button class="log-in-container" id="popupframeButton">
+            <b class="log-in3">Log in</b>
+          </button>
+          <b class="log-in4">Log in</b>
+          <div class="dont-have-an">Don’t have an account ?</div>
+          <a
+            class="create-account3"
+            href="./create-account.html"
+            id="popupcreateAccount"
+            >Create account</a
+          >
+          <div class="email3">Email:</div>
+          <div class="password3">Password:</div>
+          <input class="slab-child10" placeholder="Email" type="email" />
+
+          <input
+            class="slab-child11"
+            name="password"
+            placeholder="password"
+            type="password"
+          />
+        </div>
+        <img
+          class="hospital-reception-icon"
+          alt=""
+          src="./public/hospital-reception.svg"
+        />
+
+        <div class="we-at-healthlink1">
+          We at HealthLink are always focused on assisting with your medical
+          needs.
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var popupframeButton = document.getElementById("popupframeButton");
+      if (popupframeButton) {
+        popupframeButton.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
+      var popupcreateAccount = document.getElementById("popupcreateAccount");
+      if (popupcreateAccount) {
+        popupcreateAccount.addEventListener("click", function (e) {
+          window.location.href = "./create-account.html";
+        });
+      }
+      
+      var frameButton = document.getElementById("frameButton");
+      if (frameButton) {
+        frameButton.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      
+      
+      </script>
+  </body>
+</html>

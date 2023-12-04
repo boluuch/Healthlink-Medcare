@@ -1,0 +1,21 @@
+{
+  "name": "healthlink",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "php -S localhost:3000 -t index.php",
+    "build": "composer install && php -S localhost:3000 -t inndex.php"
+  },
+  "authors": [
+    {
+      "name": "Your Name"
+    }
+  ],
+  "license": "ISC",
+  "require": {},
+  "require-dev": {
+    "php": "^7.2",
+    "paragonie/random_compat": "^2.0",
+    "symfony/polyfill-php80": "^1.22"
+  }
+}
