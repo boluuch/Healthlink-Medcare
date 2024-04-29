@@ -21,7 +21,7 @@
     </form>
     <div id="map"></div>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCfQPdUcZ5OVhaNz8oZnPvXohwXQeEty-E&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=put your api key" async defer></script>
     <script>
         var map;
         var geocoder;
